@@ -1,0 +1,23 @@
+body {
+    background-image: url('/img/background.jpg')
+  }
+  
+  h1 {
+    color: rgb(22, 22, 54)
+  }
+  
+  .column {
+    float: left;
+    width: 35%;
+    margin: 20px;
+    padding: 24px;
+    background-color: white;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+  }
+  
+  img {
+    align-items: center;
+    height: 265px;
+    width: 215px
+  }
